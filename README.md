@@ -5,7 +5,7 @@ Welcome to my Business Analytics Portfolio! Here, you’ll find a curated collec
 ## What’s Inside?
 
 ### 🚀 Assignments
-Explore a series of assignments where I’ve applied a wide range of business analytics techniques. Each assignment represents a unique challenge—whether it’s uncovering trends in financial data, optimizing marketing strategies, or predicting customer behavior. Dive into the details to see how I approach problem-solving using tools like Python, R, SQL, and Tableau.
+Explore a series of assignments where I’ve applied a wide range of business analytics techniques. Each assignment represents a unique challenge—whether it’s uncovering trends in financial data, optimizing marketing strategies, or predicting customer behavior. Dive into the details to see how I approach problem-solving using tools like **Python, SQL, Matplotlib, Seaborn, Pandas, Numpy, Tableau, Power BI, Jupyter Notebook, Google Analytics, and Google Cloud**.
 
 ### 🏆 Final Project
 This is where theory meets practice. My final project is a comprehensive analysis that pulls together everything I’ve learned. I tackled a real-world business problem, from data collection and cleaning to visualization and modeling. The result? Actionable insights that drive business value.
