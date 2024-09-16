@@ -1,6 +1,7 @@
+
 # Business Analytics Portfolio
 
-Welcome to my Business Analytics Portfolio! Here, you’ll find a curated collection of my work that showcases my expertise in turning data into actionable insights. From analyzing complex datasets to building predictive models, this portfolio is a reflection of my passion for data-driven decision-making.
+Welcome to my Business Analytics Portfolio! Here, you’ll find a curated collection of my work that showcases my expertise in turning data into actionable insights. From analyzing complex datasets to building predictive models, this portfolio reflects my passion for data-driven decision-making.
 
 ## What’s Inside?
 
@@ -25,6 +26,12 @@ This is where theory meets practice. My final project is a comprehensive analysi
 
 - **[Final Project](./Final%20Project/)**  
   - **Highlights:** Applied all the skills learned across modules to address a real-world problem, showcasing the integration of data collection, preparation, analysis, and visualization in a business context.
+
+### 🔍 Test Case Assessment
+In addition to the modules and the final project, my portfolio includes test case assessments from real-world scenarios, further showcasing my ability to apply business analytics in practice.
+
+- **[Interview Test Case Assessment - Kiddocare](./Real%20World%20Project/Interview%20Test%20Case%20Assessment/Kiddocare/)**  
+  - **Highlights:** This assessment demonstrates my approach to solving business problems with real-world data, including data cleaning, analysis, and insight generation to provide meaningful business recommendations.
 
 ## Why This Portfolio?
 In today’s data-driven world, businesses thrive on the ability to make informed decisions. My portfolio demonstrates not only technical proficiency but also a deep understanding of how to leverage data to solve real business problems. Whether it's boosting customer retention, enhancing marketing efforts, or driving operational efficiency, my work is focused on delivering results that matter.
